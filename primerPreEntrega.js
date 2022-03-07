@@ -1,9 +1,3 @@
-/* El siguiente simulador solicita al usuario la carga del salario mensual y el plazo en el que se 
-quiere solicitar el credito.
-En base a esos datos, tasas nominales anuales estandares y utilizando el sistema de amortizacion frances, 
-calcula periodo a periodo el valor de la cuota (en sistema frances es fijo), y la composicion (interes y capital).
-Como asi tambien el saldo de capital periodo a periodo.
-*/
 console.log('Primer Pre-entrega esta en funcionamiento');
 alert('Bienvenido a Calculadora de Credito')
 let ingreso=0
